@@ -185,7 +185,7 @@ public class Debug02 {
         con.accept("atguigu");
 
         //4.
-        HashMap map = new HashMap();
+        HashMap map = new HashhMap();
         map.put("Tom",12);
         map.put("Jerry",11);
         map.put("Tony",20);
