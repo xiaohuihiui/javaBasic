@@ -9,6 +9,6 @@ public class Test {
     public static void main(String[] args) {
         Test.InnerClass ti = new Test().new InnerClass();
         int i = ti.getSum(2,3);
-        System.out.println(i);    // 输出5
+        System.out.println(i);    // 5
     }
 }

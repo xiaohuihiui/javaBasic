@@ -12,7 +12,7 @@ public class test12 {
             System.out.print(s + "\t");
         }
         System.out.println();
-        System.out.println("请选择你所在的省份：");
+        System.out.println("：");
         Scanner scan = new Scanner(System.in);
         String province = scan.next();
 
@@ -21,9 +21,9 @@ public class test12 {
             System.out.print(city + "\t");
         }
         System.out.println();
-        System.out.println("请选择你所在的城市：");
+        System.out.println("：");
         String city = scan.next();
 
-        System.out.println("信息登记完毕");
+        System.out.println("");
     }
 }

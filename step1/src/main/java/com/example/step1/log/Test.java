@@ -10,7 +10,7 @@ public class Test {
     private static Logger log = Logger.getLogger(Test.class.toString());
 
     public static void main(String[] args) {
-        // 级别依次升高，后面的日志级别会屏蔽之前的级别
+        // ，
         log.finest("finest");
         log.finer("finer");
         log.fine("fine");

@@ -5,7 +5,7 @@ public class Triangle extends Figure {
         super(d1, d2);
     }
     double area() {
-        System.out.println("三角形的面积：");
+        System.out.println("：");
         return super.dim1 * super.dim2 / 2;
     }
 }

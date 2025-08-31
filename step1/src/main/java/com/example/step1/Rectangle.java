@@ -8,7 +8,7 @@ public class Rectangle extends Figure {
     }
 
     double area() {
-        System.out.println("长方形的面积：");
+        System.out.println("：");
         return super.dim1 * super.dim2;
     }
 }

@@ -8,6 +8,6 @@ public class practise1 {
         for(int i = 0;i < index.length;i++){
             tel += arr[index[i]];
         }
-        System.out.println("联系方式：" + tel);
+        System.out.println("：" + tel);
     }
 }
